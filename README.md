@@ -1,4 +1,4 @@
-# Napu Dumaran – Cybersecurity Projects & Learning Journey
+# Napu Dumaran – Projects & Learning Documentation
 
 Welcome. I’m a cybersecurity student, PC technician, and father documenting my transition from Windows to Linux. My long-term goal is to build a custom, minimal version of Kali Linux as proof of intermediate-level mastery — with every decision explained and documented.
 
